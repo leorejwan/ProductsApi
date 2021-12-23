@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "p1fnSLScx+iQm+LjWldx2xwbDU8FeZaNfnr30qXDW/SOaP6PidaxAzLKQw0ahoBBehOw50FX/Sxc2wOkwkFGWg==",
+  "dgSpecHash": "7jeU2U4x9NSuznn1W4qMpGIzNuZi/8TbDORK6OZAGNP+eCpd6mu1MtCIQHcKhkAYXLPEE+RmySlVwCRLOZzPXQ==",
   "success": true,
   "projectFilePath": "C:\\leo\\PROJETOS\\CRUD ENtity Postgres\\ProductsApi\\ProductsApi.csproj",
   "expectedPackageFiles": [

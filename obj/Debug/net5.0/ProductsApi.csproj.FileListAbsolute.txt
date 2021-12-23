@@ -22,8 +22,16 @@ C:\leo\PROJETOS\CRUD ENtity Postgres\ProductsApi\obj\Debug\net5.0\staticwebasset
 C:\leo\PROJETOS\CRUD ENtity Postgres\ProductsApi\obj\Debug\net5.0\staticwebassets\ProductsApi.StaticWebAssets.xml
 C:\leo\PROJETOS\CRUD ENtity Postgres\ProductsApi\obj\Debug\net5.0\scopedcss\bundle\ProductsApi.styles.css
 C:\leo\PROJETOS\CRUD ENtity Postgres\ProductsApi\obj\Debug\net5.0\ProductsApi.RazorTargetAssemblyInfo.cache
-C:\leo\PROJETOS\CRUD ENtity Postgres\ProductsApi\obj\Debug\net5.0\ProductsApi.csproj.CopyComplete
 C:\leo\PROJETOS\CRUD ENtity Postgres\ProductsApi\obj\Debug\net5.0\ProductsApi.dll
 C:\leo\PROJETOS\CRUD ENtity Postgres\ProductsApi\obj\Debug\net5.0\ref\ProductsApi.dll
 C:\leo\PROJETOS\CRUD ENtity Postgres\ProductsApi\obj\Debug\net5.0\ProductsApi.pdb
 C:\leo\PROJETOS\CRUD ENtity Postgres\ProductsApi\obj\Debug\net5.0\ProductsApi.genruntimeconfig.cache
+C:\leo\PROJETOS\CRUD ENtity Postgres\ProductsApi\bin\Debug\net5.0\Humanizer.dll
+C:\leo\PROJETOS\CRUD ENtity Postgres\ProductsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\leo\PROJETOS\CRUD ENtity Postgres\ProductsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\leo\PROJETOS\CRUD ENtity Postgres\ProductsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\leo\PROJETOS\CRUD ENtity Postgres\ProductsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\leo\PROJETOS\CRUD ENtity Postgres\ProductsApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\leo\PROJETOS\CRUD ENtity Postgres\ProductsApi\bin\Debug\net5.0\Npgsql.dll
+C:\leo\PROJETOS\CRUD ENtity Postgres\ProductsApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\leo\PROJETOS\CRUD ENtity Postgres\ProductsApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
